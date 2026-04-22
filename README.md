@@ -1,24 +1,42 @@
-<h1 align="center">Hi 👋, I'm Malaravan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🌱 I’m currently learning **Reactjs, Java and SQL**
-
-- 💬 About me: **On a journey to become a better engineer Always learning. Always improving.**
-
-- 📫 How to reach me: **malaravan212003@gmail.com**
-
-- ⚡ Fun fact **I believe dark mode increases productivity.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/malaravan-p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/malaravan-p/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=220&section=header&text=Hi,+I'm+Malaravan&fontSize=48&fontColor=E0FFFF&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h3 align="left">🎯 Programming Languages</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Skilled+in+Frontend+Developer;Always+Learning+New+Things"/>
+</p>
 
-<h3 align="left">🧩 Frameworks & Libraries</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> </p>
+## 🚀 About Me
+- 🌱 Currently learning **Python & AI**
+- 💡 On a journey to become a better engineer  
+- 📈 Always learning, always improving  
+- ⚡ Fun fact: *I believe dark mode increases productivity* 😄  
 
-<h3 align="left">🛠️ Tools & Technologies</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> </p>
+---
+
+## 📫 Contact Me
+- 📧 Email: **malaravan212003@gmail.com**
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/malaravan-p/" target="_blank">Malaravan P</a>
+
+---
+
+### 🎯 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python&perline=12" />
+</p>
+
+
+### 🧩 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,django&perline=12" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,figma,mysql&perline=12" />
+</p>
+
+
+<p align="center" font="bold">
+  ⭐️ “Motivation starts the journey, discipline finishes it.” ⭐️
+</p>
