@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Skilled+in+Frontend+Developer;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Skilled+in+Frontend+Development;Always+Learning+New+Things"/>
 </p>
 
 ## 🚀 About Me
